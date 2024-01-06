@@ -1,1 +1,1 @@
-# Fotograf
+https://dipgame.github.io/Fotograf/
